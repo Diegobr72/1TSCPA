@@ -27,6 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -69,7 +72,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -253,7 +256,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710703579538</updated>
       <workItem from="1710703601267" duration="1135000" />
-      <workItem from="1710708408878" duration="7808000" />
+      <workItem from="1710708408878" duration="8241000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro codigo">
       <option name="closed" value="true" />
@@ -535,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710716477710</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="delete read me">
+      <option name="closed" value="true" />
+      <created>1710716580059</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1710716580059</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
