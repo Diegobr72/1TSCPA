@@ -1,12 +1,11 @@
-#versao 1: somente o desvio condicional simples
+#versao 2: com desvio condicional composto
 
 print("Permissao para dirigir")
 
 idade = int(input("Qual sua idade? "))
-
 if idade >= 18:
   print("Voce pode dirigir")
+  print("Mas tem que ter habilitacao")
 else:
-  print("Voce não pode dirigir")
-
+  print("Você NÃO PODE dirigir")
 print("Obrigada por participar")
