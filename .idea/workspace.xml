@@ -86,8 +86,8 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Tabuada V5">
-    <configuration name="Correcao do Checkpoint 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.PIM">
+    <configuration name="PIM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,12 +96,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/Correcao do Checkpoint 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/PIM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PIM" />
         <item itemvalue="Python.Tabuada V5" />
         <item itemvalue="Python.Tabuada V3" />
         <item itemvalue="Python.Tabuada V2" />
         <item itemvalue="Python.Tabuada V1" />
-        <item itemvalue="Python.Correcao do Checkpoint 1" />
       </list>
     </recent_temporary>
   </component>
