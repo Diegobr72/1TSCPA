@@ -1,0 +1,6 @@
+nome = input('Entre com o seu nome: ')
+print('Bom dia', nome)
+idadestr = input('Entre com a sua idade: ')
+print('Voce tem', idadestr, 'anos')
+idade = int(idadestr)
+print('No ano que vem voce tera', idade + 1, 'anos')
