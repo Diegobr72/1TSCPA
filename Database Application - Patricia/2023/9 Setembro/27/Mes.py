@@ -1,34 +1,32 @@
-#(aula 5)Escreva um programa que pergunte em qual mês estamos (1-12) e ao final utilize uma estrutura de decisão por seleção para escrever o nome do mês por extenso na tela.
+print("Programa que fala o número por extenso")
+mes = int(input("Qual o número do mês que você está?"))
 
-titulo = "Programa do Mês"
-print(f'{titulo:^30}')
+if 1 <= mes <= 12: 
+  if mes == 1:
+      mes_extenso = "Janeiro"
+  elif mes == 2:
+      mes_extenso = "Fevereiro"
+  elif mes == 3:
+      mes_extenso = "Março"
+  elif mes == 4:
+      mes_extenso = "Abril"
+  elif mes == 5:
+      mes_extenso = "Maio"
+  elif mes == 6:
+      mes_extenso = "Junho"
+  elif mes == 7:
+      mes_extenso = "Julho"
+  elif mes == 8:
+      mes_extenso = "Agosto"
+  elif mes == 9:
+      mes_extenso = "Setembro"
+  elif mes == 10:
+      mes_extenso = "Outubro"
+  elif mes == 11:
+      mes_extenso = "Novembro"
+  elif mes == 12:
+      mes_extenso = "Dezembro"
 
-mes = int(input("Entre com um número de 1-12: "))
-
-if 1 <= mes <= 12:
-    if mes == 1:
-        print("Janeiro")
-    elif mes == 2:
-        print("Fevereiro")
-    elif mes == 3:
-        print("Março")
-    elif mes == 4:
-        print("Abril")
-    elif mes == 5:
-        print("Maio")
-    elif mes == 6:
-        print("Junho")
-    elif mes == 7:
-        print("Julho")
-    elif mes == 8:
-        print("Agosto")
-    elif mes == 9:
-        print("Setembro")
-    elif mes == 10:
-        print("Outubro")
-    elif mes == 11:
-        print("Novembro")
-    elif mes == 12:
-        print("Dezembro")
+  print("Você está no mês", mes_extenso, "!")
 else:
     print("Mês inválido")

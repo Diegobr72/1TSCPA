@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Patricia" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="mes">
+      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/9 Setembro/27/Mes Diego.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2023/9 Setembro/27/Mes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/9 Setembro/27/Mes.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +46,7 @@
     "Python.Decisao sequencial.executor": "Run",
     "Python.Input (1).executor": "Run",
     "Python.Media.executor": "Run",
+    "Python.Mes.executor": "Run",
     "Python.Permissao para dirigir V1.executor": "Run",
     "Python.Permissao para dirigir V2.executor": "Run",
     "Python.Permissao para dirigir V3.executor": "Run",
@@ -77,7 +82,7 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\2023\9 Setembro\13" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Decisao sequencial float">
+  <component name="RunManager" selected="Python.Mes">
     <configuration name="Decisao sequencial float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
@@ -124,6 +129,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Mes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1TSCPA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2023/9 Setembro/27" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/9 Setembro/27/Mes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Primeiro Input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
@@ -139,29 +167,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\diego\PycharmProjects\1TSCPA\2023\9 Setembro\13\Primeiro Input.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Programa da Caixa DAgua V1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="1TSCPA" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023/9 Setembro/13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023/9 Setembro/13/Programa da Caixa DAgua V1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Mes" />
         <item itemvalue="Python.Decisao sequencial float" />
         <item itemvalue="Python.Decisao sequencial inteiro" />
         <item itemvalue="Python.possivel a compra" />
         <item itemvalue="Python.Sindico do Condominio" />
-        <item itemvalue="Python.Programa da Caixa DAgua V1" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +247,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710703579538</updated>
       <workItem from="1710703601267" duration="1135000" />
-      <workItem from="1710708408878" duration="3413000" />
+      <workItem from="1710708408878" duration="3745000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro codigo">
       <option name="closed" value="true" />
@@ -396,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710711850315</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="mes">
+      <option name="closed" value="true" />
+      <created>1710712408203</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1710712408203</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +432,8 @@
     <MESSAGE value="Decisao por selecao" />
     <MESSAGE value="Aprovado na faculdade" />
     <MESSAGE value="Patricia" />
-    <option name="LAST_COMMIT_MESSAGE" value="Patricia" />
+    <MESSAGE value="mes" />
+    <option name="LAST_COMMIT_MESSAGE" value="mes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V1.coverage" NAME="Permissao para dirigir V1 Coverage Results" MODIFIED="1710710368888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
@@ -428,6 +442,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$possivel_a_compra.coverage" NAME="possivel a compra Coverage Results" MODIFIED="1710711221405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
     <SUITE FILE_PATH="coverage/1TSCPA$Primeira_variavel.coverage" NAME="Primeira variavel Coverage Results" MODIFIED="1710708796414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Programa_da_Caixa_DAgua_V1.coverage" NAME="Programa da Caixa DAgua V1 Coverage Results" MODIFIED="1710710704494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Mes.coverage" NAME="Mes Coverage Results" MODIFIED="1710712409989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/9 Setembro/27" />
     <SUITE FILE_PATH="coverage/1TSCPA$Media.coverage" NAME="Media Coverage Results" MODIFIED="1710709915435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Decisao_sequencial_float.coverage" NAME="Decisao sequencial float Coverage Results" MODIFIED="1710711473627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
     <SUITE FILE_PATH="coverage/1TSCPA$Input__1_.coverage" NAME="Input (1) Coverage Results" MODIFIED="1710709827091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
