@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Progama para verificar qual seu abastecimento">
-      <change afterPath="$PROJECT_DIR$/2023/9 Setembro/20/Sindico do Condominio.py" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="possivel a compra">
+      <change afterPath="$PROJECT_DIR$/2023/9 Setembro/20/Decisao sequencial inteiro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/9 Setembro/20/Decisao sequencial.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.13.executor": "Run",
+    "Python.Decisao sequencial.executor": "Run",
     "Python.Input (1).executor": "Run",
     "Python.Media.executor": "Run",
     "Python.Permissao para dirigir V1.executor": "Run",
@@ -48,6 +51,8 @@
     "Python.Permissao para dirigir V4.executor": "Run",
     "Python.Primeira variavel.executor": "Run",
     "Python.Programa da Caixa DAgua V1.executor": "Run",
+    "Python.Sindico do Condominio.executor": "Run",
+    "Python.possivel a compra.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -72,8 +77,8 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.possivel a compra">
-    <configuration name="Permissao para dirigir V3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Decisao sequencial inteiro">
+    <configuration name="Decisao sequencial inteiro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,12 +87,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023/9 Setembro/13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023/9 Setembro/20" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023/9 Setembro/13/Permissao para dirigir V3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\diego\PycharmProjects\1TSCPA\2023\9 Setembro\20\Decisao sequencial inteiro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Decisao sequencial inteiro" />
         <item itemvalue="Python.possivel a compra" />
         <item itemvalue="Python.Sindico do Condominio" />
         <item itemvalue="Python.Programa da Caixa DAgua V1" />
         <item itemvalue="Python.Permissao para dirigir V4" />
-        <item itemvalue="Python.Permissao para dirigir V3" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +242,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710703579538</updated>
       <workItem from="1710703601267" duration="1135000" />
-      <workItem from="1710708408878" duration="2333000" />
+      <workItem from="1710708408878" duration="2636000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro codigo">
       <option name="closed" value="true" />
@@ -327,7 +332,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710710880701</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="síndico do condomínio">
+      <option name="closed" value="true" />
+      <created>1710711074834</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710711074834</updated>
+    </task>
+    <task id="LOCAL-00013" summary="possivel a compra">
+      <option name="closed" value="true" />
+      <created>1710711211722</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710711211722</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,17 +364,22 @@
     <MESSAGE value="Programa da Caixa DAgua v1" />
     <MESSAGE value="Programa da Caixa DAgua V2" />
     <MESSAGE value="Progama para verificar qual seu abastecimento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Progama para verificar qual seu abastecimento" />
+    <MESSAGE value="síndico do condomínio" />
+    <MESSAGE value="possivel a compra" />
+    <option name="LAST_COMMIT_MESSAGE" value="possivel a compra" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V1.coverage" NAME="Permissao para dirigir V1 Coverage Results" MODIFIED="1710710368888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V4.coverage" NAME="Permissao para dirigir V4 Coverage Results" MODIFIED="1710710550538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Sindico_do_Condominio.coverage" NAME="Sindico do Condominio Coverage Results" MODIFIED="1710711060901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
+    <SUITE FILE_PATH="coverage/1TSCPA$possivel_a_compra.coverage" NAME="possivel a compra Coverage Results" MODIFIED="1710711221405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
     <SUITE FILE_PATH="coverage/1TSCPA$Primeira_variavel.coverage" NAME="Primeira variavel Coverage Results" MODIFIED="1710708796414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
-    <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V2.coverage" NAME="Permissao para dirigir V2 Coverage Results" MODIFIED="1710710117613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Programa_da_Caixa_DAgua_V1.coverage" NAME="Programa da Caixa DAgua V1 Coverage Results" MODIFIED="1710710704494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
-    <SUITE FILE_PATH="coverage/1TSCPA$13.coverage" NAME="13 Coverage Results" MODIFIED="1710708789250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro" />
     <SUITE FILE_PATH="coverage/1TSCPA$Media.coverage" NAME="Media Coverage Results" MODIFIED="1710709915435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
-    <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V3.coverage" NAME="Permissao para dirigir V3 Coverage Results" MODIFIED="1710710455977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Input__1_.coverage" NAME="Input (1) Coverage Results" MODIFIED="1710709827091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V2.coverage" NAME="Permissao para dirigir V2 Coverage Results" MODIFIED="1710710117613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
+    <SUITE FILE_PATH="coverage/1TSCPA$13.coverage" NAME="13 Coverage Results" MODIFIED="1710708789250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Decisao_sequencial.coverage" NAME="Decisao sequencial Coverage Results" MODIFIED="1710711297064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V3.coverage" NAME="Permissao para dirigir V3 Coverage Results" MODIFIED="1710710455977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
   </component>
 </project>
