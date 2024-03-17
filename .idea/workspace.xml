@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="teste">
+      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Contagem Regressiva.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,43 +59,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correcao do Checkpoint 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Decisao sequencial float.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Decisao sequencial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Input (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Media.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Mes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PIM.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Primeira variavel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programa da Caixa DAgua V1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sindico do Condominio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada V2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada V3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada V5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada.executor&quot;: &quot;Run&quot;,
-    &quot;Python.possivel a compra.executor&quot;: &quot;Run&quot;,
-    &quot;Python.time.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/PycharmProjects/1TSCPA/Database Application - Patricia/2023/10 Outubro/04/Tabuada&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.13.executor": "Run",
+    "Python.Correcao do Checkpoint 1.executor": "Run",
+    "Python.Decisao sequencial float.executor": "Run",
+    "Python.Decisao sequencial.executor": "Run",
+    "Python.Input (1).executor": "Run",
+    "Python.Media.executor": "Run",
+    "Python.Mes.executor": "Run",
+    "Python.PIM.executor": "Run",
+    "Python.Permissao para dirigir V1.executor": "Run",
+    "Python.Permissao para dirigir V2.executor": "Run",
+    "Python.Permissao para dirigir V3.executor": "Run",
+    "Python.Permissao para dirigir V4.executor": "Run",
+    "Python.Primeira variavel.executor": "Run",
+    "Python.Programa da Caixa DAgua V1.executor": "Run",
+    "Python.Sindico do Condominio.executor": "Run",
+    "Python.Tabuada V2.executor": "Run",
+    "Python.Tabuada V3.executor": "Run",
+    "Python.Tabuada V5.executor": "Run",
+    "Python.Tabuada.executor": "Run",
+    "Python.possivel a compra.executor": "Run",
+    "Python.time.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/diego/PycharmProjects/1TSCPA/Database Application - Patricia/2023/10 Outubro/04/Tabuada",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\04\Tabuada" />
@@ -280,6 +281,7 @@
       <workItem from="1710703601267" duration="1135000" />
       <workItem from="1710708408878" duration="8847000" />
       <workItem from="1710717653876" duration="27000" />
+      <workItem from="1710717758750" duration="1141000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro codigo">
       <option name="closed" value="true" />
@@ -585,7 +587,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710717557573</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="teste">
+      <option name="closed" value="true" />
+      <created>1710717973105</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1710717973105</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
