@@ -1,6 +1,6 @@
 print("Faixa de Valores para float")
 
-numero = float(input("Entre com um numero: "))
+numero = float(input("Entre com um numero de 0 a 30: "))
 
 if numero > 0 and numero <=10:
   print("Primeira Faixa")

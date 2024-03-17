@@ -1,6 +1,6 @@
 print("Faixa de Valores para inteiro")
 
-numero = int(input("Entre com um numero: "))
+numero = int(input("Entre com um numero de 0 a 30: "))
 
 if numero >=1 and numero <=10:
   print("Primeira Faixa")
