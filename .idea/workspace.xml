@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Decisao por selecao">
-      <change afterPath="$PROJECT_DIR$/2023/9 Setembro/20/Aprovado na faculdade.py" afterDir="false" />
-    </list>
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Patricia" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,8 +71,10 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\.venv\Scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\2023\9 Setembro\13" />
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA" />
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\2023\Database Application - Patricia" />
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\2023\9 Setembro\13" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Decisao sequencial float">
@@ -242,7 +242,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710703579538</updated>
       <workItem from="1710703601267" duration="1135000" />
-      <workItem from="1710708408878" duration="2950000" />
+      <workItem from="1710708408878" duration="3413000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro codigo">
       <option name="closed" value="true" />
@@ -380,7 +380,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710711614887</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Aprovado na faculdade">
+      <option name="closed" value="true" />
+      <created>1710711681112</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710711681112</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Patricia">
+      <option name="closed" value="true" />
+      <created>1710711850315</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710711850315</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,7 +417,9 @@
     <MESSAGE value="Decisao sequencial inteiro" />
     <MESSAGE value="Decisao sequencial float" />
     <MESSAGE value="Decisao por selecao" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decisao por selecao" />
+    <MESSAGE value="Aprovado na faculdade" />
+    <MESSAGE value="Patricia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Patricia" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V1.coverage" NAME="Permissao para dirigir V1 Coverage Results" MODIFIED="1710710368888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
