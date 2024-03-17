@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Tabuada V3.py">
-      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada/Tabuada V4.py" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="PIM">
+      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/PIM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/PIM.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
     "Python.Input (1).executor": "Run",
     "Python.Media.executor": "Run",
     "Python.Mes.executor": "Run",
+    "Python.PIM.executor": "Run",
     "Python.Permissao para dirigir V1.executor": "Run",
     "Python.Permissao para dirigir V2.executor": "Run",
     "Python.Permissao para dirigir V3.executor": "Run",
@@ -55,6 +56,7 @@
     "Python.Sindico do Condominio.executor": "Run",
     "Python.Tabuada V2.executor": "Run",
     "Python.Tabuada V3.executor": "Run",
+    "Python.Tabuada V5.executor": "Run",
     "Python.Tabuada.executor": "Run",
     "Python.possivel a compra.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -67,7 +69,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.customizations",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -79,8 +81,8 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\.venv\Scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\04\Tabuada" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\04" />
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\04\Tabuada" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\Estruturas de repeticao" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023" />
@@ -251,7 +253,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710703579538</updated>
       <workItem from="1710703601267" duration="1135000" />
-      <workItem from="1710708408878" duration="6450000" />
+      <workItem from="1710708408878" duration="6822000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro codigo">
       <option name="closed" value="true" />
@@ -461,14 +463,37 @@
       <option name="project" value="LOCAL" />
       <updated>1710715168998</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Tabuada V4.py">
+      <option name="closed" value="true" />
+      <created>1710715215541</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1710715215541</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Tabuada V5.py">
+      <option name="closed" value="true" />
+      <created>1710715290971</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1710715290971</updated>
+    </task>
+    <task id="LOCAL-00029" summary="PIM">
+      <option name="closed" value="true" />
+      <created>1710715354038</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1710715354038</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="primeiro codigo" />
     <MESSAGE value="primeira aula" />
     <MESSAGE value="Media e Permissao para dirigir V1" />
     <MESSAGE value="Permissao para dirigir V2" />
@@ -491,9 +516,13 @@
     <MESSAGE value="Ranger" />
     <MESSAGE value="Tabuada V2.py" />
     <MESSAGE value="Tabuada V3.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tabuada V3.py" />
+    <MESSAGE value="Tabuada V4.py" />
+    <MESSAGE value="Tabuada V5.py" />
+    <MESSAGE value="PIM" />
+    <option name="LAST_COMMIT_MESSAGE" value="PIM" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1TSCPA$PIM.coverage" NAME="PIM Coverage Results" MODIFIED="1710715382908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V3.coverage" NAME="Tabuada V3 Coverage Results" MODIFIED="1710715127792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V1.coverage" NAME="Permissao para dirigir V1 Coverage Results" MODIFIED="1710710368888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V4.coverage" NAME="Permissao para dirigir V4 Coverage Results" MODIFIED="1710710550538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
@@ -507,6 +536,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V2.coverage" NAME="Tabuada V2 Coverage Results" MODIFIED="1710715044438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
     <SUITE FILE_PATH="coverage/1TSCPA$Input__1_.coverage" NAME="Input (1) Coverage Results" MODIFIED="1710709827091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V2.coverage" NAME="Permissao para dirigir V2 Coverage Results" MODIFIED="1710710117613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V5.coverage" NAME="Tabuada V5 Coverage Results" MODIFIED="1710715262228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
     <SUITE FILE_PATH="coverage/1TSCPA$13.coverage" NAME="13 Coverage Results" MODIFIED="1710708789250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro" />
     <SUITE FILE_PATH="coverage/1TSCPA$Decisao_sequencial.coverage" NAME="Decisao sequencial Coverage Results" MODIFIED="1710711297064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada.coverage" NAME="Tabuada Coverage Results" MODIFIED="1710714940711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro" />
