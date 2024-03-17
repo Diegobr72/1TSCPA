@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="ordenacao">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="delete read me" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +25,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -37,42 +36,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correcao do Checkpoint 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Decisao sequencial float.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Decisao sequencial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Input (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Media.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Mes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PIM.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Primeira variavel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programa da Caixa DAgua V1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sindico do Condominio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada V2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada V3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada V5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada.executor&quot;: &quot;Run&quot;,
-    &quot;Python.possivel a compra.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/PycharmProjects/1TSCPA/Database Application - Patricia/2023/10 Outubro/04/Tabuada&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.ChangelistConflict&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.13.executor": "Run",
+    "Python.Correcao do Checkpoint 1.executor": "Run",
+    "Python.Decisao sequencial float.executor": "Run",
+    "Python.Decisao sequencial.executor": "Run",
+    "Python.Input (1).executor": "Run",
+    "Python.Media.executor": "Run",
+    "Python.Mes.executor": "Run",
+    "Python.PIM.executor": "Run",
+    "Python.Permissao para dirigir V1.executor": "Run",
+    "Python.Permissao para dirigir V2.executor": "Run",
+    "Python.Permissao para dirigir V3.executor": "Run",
+    "Python.Permissao para dirigir V4.executor": "Run",
+    "Python.Primeira variavel.executor": "Run",
+    "Python.Programa da Caixa DAgua V1.executor": "Run",
+    "Python.Sindico do Condominio.executor": "Run",
+    "Python.Tabuada V2.executor": "Run",
+    "Python.Tabuada V3.executor": "Run",
+    "Python.Tabuada V5.executor": "Run",
+    "Python.Tabuada.executor": "Run",
+    "Python.possivel a compra.executor": "Run",
+    "Python.time.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/diego/PycharmProjects/1TSCPA/Database Application - Patricia/2023/10 Outubro/04/Tabuada",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\04\Tabuada" />
@@ -253,7 +253,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710703579538</updated>
       <workItem from="1710703601267" duration="1135000" />
-      <workItem from="1710708408878" duration="7460000" />
+      <workItem from="1710708408878" duration="7808000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro codigo">
       <option name="closed" value="true" />
@@ -519,15 +519,29 @@
       <option name="project" value="LOCAL" />
       <updated>1710715806345</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="TIME">
+      <option name="closed" value="true" />
+      <created>1710716336601</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1710716336601</updated>
+    </task>
+    <task id="LOCAL-00035" summary="delete read me">
+      <option name="closed" value="true" />
+      <created>1710716477710</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1710716477710</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Permissao para dirigir V3" />
-    <MESSAGE value="Permissao para dirigir V4" />
     <MESSAGE value="Programa da Caixa DAgua v1" />
     <MESSAGE value="Programa da Caixa DAgua V2" />
     <MESSAGE value="Progama para verificar qual seu abastecimento" />
@@ -551,10 +565,13 @@
     <MESSAGE value="Dividido 5" />
     <MESSAGE value="Ordenação" />
     <MESSAGE value="ordenacao" />
-    <option name="LAST_COMMIT_MESSAGE" value="ordenacao" />
+    <MESSAGE value="TIME" />
+    <MESSAGE value="delete read me" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete read me" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/1TSCPA$PIM.coverage" NAME="PIM Coverage Results" MODIFIED="1710715382908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
+    <SUITE FILE_PATH="coverage/1TSCPA$PIM.coverage" NAME="PIM Coverage Results" MODIFIED="1710716258546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
+    <SUITE FILE_PATH="coverage/1TSCPA$time.coverage" NAME="time Coverage Results" MODIFIED="1710716311421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V3.coverage" NAME="Tabuada V3 Coverage Results" MODIFIED="1710715127792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V1.coverage" NAME="Permissao para dirigir V1 Coverage Results" MODIFIED="1710710368888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V4.coverage" NAME="Permissao para dirigir V4 Coverage Results" MODIFIED="1710710550538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
