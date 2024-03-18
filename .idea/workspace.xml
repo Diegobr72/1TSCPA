@@ -115,7 +115,7 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Contador par e impar">
+  <component name="RunManager" selected="Python.Contador e pares e impas">
     <configuration name="Checkpoint 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Contador par e impar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Contador e pares e impas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,7 +153,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\11\Contador par e impar.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\11\Contador e pares e impas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +233,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Contador par e impar" />
+        <item itemvalue="Python.Contador e pares e impas" />
         <item itemvalue="Python.Fibonacci" />
         <item itemvalue="Python.Repeticao com teste logico" />
         <item itemvalue="Python.Checkpoint 1" />
