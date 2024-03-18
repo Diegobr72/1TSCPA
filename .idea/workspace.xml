@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Contador e pares e impas com ia">
-      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11/numeros pares.py" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Inverter numero.py">
+      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25/Checkpoint 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +63,14 @@
   "keyToString": {
     "Python.13.executor": "Run",
     "Python.Checkpoint 1.executor": "Run",
+    "Python.Checkpoint 2.executor": "Run",
     "Python.Contador e pares e impas.executor": "Run",
     "Python.Correcao do Checkpoint 1.executor": "Run",
     "Python.Decisao sequencial float.executor": "Run",
     "Python.Decisao sequencial.executor": "Run",
     "Python.Fibonacci.executor": "Run",
     "Python.Input (1).executor": "Run",
+    "Python.Inverter numero.executor": "Run",
     "Python.Media.executor": "Run",
     "Python.Mes.executor": "Run",
     "Python.PIM.executor": "Run",
@@ -115,8 +118,8 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Inverter numero">
-    <configuration name="Checkpoint 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Checkpoint 2">
+    <configuration name="Checkpoint 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,12 +128,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Checkpoint 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25/Checkpoint 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Checkpoint 2" />
         <item itemvalue="Python.Inverter numero" />
         <item itemvalue="Python.Contador e pares e impas" />
         <item itemvalue="Python.Fibonacci" />
         <item itemvalue="Python.Repeticao com teste logico" />
-        <item itemvalue="Python.Checkpoint 1" />
       </list>
     </recent_temporary>
   </component>
@@ -263,31 +266,7 @@
       <workItem from="1710708408878" duration="8847000" />
       <workItem from="1710717653876" duration="27000" />
       <workItem from="1710717758750" duration="1481000" />
-      <workItem from="1710720170478" duration="1031000" />
-    </task>
-    <task id="LOCAL-00002" summary="primeira aula">
-      <option name="closed" value="true" />
-      <created>1710708858479</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1710708858479</updated>
-    </task>
-    <task id="LOCAL-00003" summary="primeira aula">
-      <option name="closed" value="true" />
-      <created>1710709017227</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1710709017227</updated>
-    </task>
-    <task id="LOCAL-00004" summary="primeira aula">
-      <option name="closed" value="true" />
-      <created>1710709876419</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1710709876419</updated>
+      <workItem from="1710720170478" duration="1730000" />
     </task>
     <task id="LOCAL-00005" summary="Media e Permissao para dirigir V1">
       <option name="closed" value="true" />
@@ -657,7 +636,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710721526910</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="numeros pares.py">
+      <option name="closed" value="true" />
+      <created>1710721652384</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1710721652384</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Inverter numero.py">
+      <option name="closed" value="true" />
+      <created>1710721733246</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1710721733246</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Inverter numero.py">
+      <option name="closed" value="true" />
+      <created>1710721770960</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1710721770961</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,8 +678,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mes" />
-    <MESSAGE value="ticket de estacionamento" />
     <MESSAGE value="CH 1" />
     <MESSAGE value="for" />
     <MESSAGE value="Ranger" />
@@ -700,7 +701,9 @@
     <MESSAGE value="par e impares" />
     <MESSAGE value="Contador e pares e impas" />
     <MESSAGE value="Contador e pares e impas com ia" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contador e pares e impas com ia" />
+    <MESSAGE value="numeros pares.py" />
+    <MESSAGE value="Inverter numero.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inverter numero.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1TSCPA$PIM.coverage" NAME="PIM Coverage Results" MODIFIED="1710716258546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
@@ -713,12 +716,13 @@
     <SUITE FILE_PATH="coverage/1TSCPA$Mes.coverage" NAME="Mes Coverage Results" MODIFIED="1710712409989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/9 Setembro/27" />
     <SUITE FILE_PATH="coverage/1TSCPA$Media.coverage" NAME="Media Coverage Results" MODIFIED="1710709915435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Decisao_sequencial_float.coverage" NAME="Decisao sequencial float Coverage Results" MODIFIED="1710711473627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Checkpoint_2.coverage" NAME="Checkpoint 2 Coverage Results" MODIFIED="1710721949586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25" />
     <SUITE FILE_PATH="coverage/1TSCPA$Input__1_.coverage" NAME="Input (1) Coverage Results" MODIFIED="1710709827091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$par_e_impar.coverage" NAME="Contador e pares e impas Coverage Results" MODIFIED="1710721500672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V2.coverage" NAME="Permissao para dirigir V2 Coverage Results" MODIFIED="1710710117613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V5.coverage" NAME="Tabuada V5 Coverage Results" MODIFIED="1710715262228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
     <SUITE FILE_PATH="coverage/1TSCPA$13.coverage" NAME="13 Coverage Results" MODIFIED="1710708789250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro" />
-    <SUITE FILE_PATH="coverage/1TSCPA$Inverter_numero.coverage" NAME="Inverter numero Coverage Results" MODIFIED="1710721708398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Inverter_numero.coverage" NAME="Inverter numero Coverage Results" MODIFIED="1710721758527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
     <SUITE FILE_PATH="coverage/1TSCPA$Decisao_sequencial.coverage" NAME="Decisao sequencial Coverage Results" MODIFIED="1710711297064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
     <SUITE FILE_PATH="coverage/1TSCPA$Correcao_do_Checkpoint_1.coverage" NAME="Correcao do Checkpoint 1 Coverage Results" MODIFIED="1710714555531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro" />
     <SUITE FILE_PATH="coverage/1TSCPA$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1710721240614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
