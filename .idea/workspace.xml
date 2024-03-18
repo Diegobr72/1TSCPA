@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Fibonacci.py">
-      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11/par e impar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11/Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11/Fibonacci.py" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Contador e pares e impas com ia">
+      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11/numeros pares.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +62,7 @@
   "keyToString": {
     "Python.13.executor": "Run",
     "Python.Checkpoint 1.executor": "Run",
+    "Python.Contador e pares e impas.executor": "Run",
     "Python.Correcao do Checkpoint 1.executor": "Run",
     "Python.Decisao sequencial float.executor": "Run",
     "Python.Decisao sequencial.executor": "Run",
@@ -84,6 +83,7 @@
     "Python.Tabuada V3.executor": "Run",
     "Python.Tabuada V5.executor": "Run",
     "Python.Tabuada.executor": "Run",
+    "Python.par e impar.executor": "Run",
     "Python.possivel a compra.executor": "Run",
     "Python.time.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -263,15 +263,7 @@
       <workItem from="1710708408878" duration="8847000" />
       <workItem from="1710717653876" duration="27000" />
       <workItem from="1710717758750" duration="1481000" />
-      <workItem from="1710720170478" duration="699000" />
-    </task>
-    <task id="LOCAL-00001" summary="primeiro codigo">
-      <option name="closed" value="true" />
-      <created>1710708279283</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1710708279283</updated>
+      <workItem from="1710720170478" duration="1031000" />
     </task>
     <task id="LOCAL-00002" summary="primeira aula">
       <option name="closed" value="true" />
@@ -633,7 +625,39 @@
       <option name="project" value="LOCAL" />
       <updated>1710721179908</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="par e impares">
+      <option name="closed" value="true" />
+      <created>1710721311811</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1710721311811</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Contador e pares e impas">
+      <option name="closed" value="true" />
+      <created>1710721401675</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1710721401675</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Contador e pares e impas">
+      <option name="closed" value="true" />
+      <created>1710721484278</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1710721484278</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Contador e pares e impas com ia">
+      <option name="closed" value="true" />
+      <created>1710721526909</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1710721526910</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -651,9 +675,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Decisao por selecao" />
-    <MESSAGE value="Aprovado na faculdade" />
-    <MESSAGE value="Patricia" />
     <MESSAGE value="mes" />
     <MESSAGE value="ticket de estacionamento" />
     <MESSAGE value="CH 1" />
@@ -676,7 +697,10 @@
     <MESSAGE value="Alterei o README.md" />
     <MESSAGE value="Repeticao com teste logico.py" />
     <MESSAGE value="Fibonacci.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci.py" />
+    <MESSAGE value="par e impares" />
+    <MESSAGE value="Contador e pares e impas" />
+    <MESSAGE value="Contador e pares e impas com ia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contador e pares e impas com ia" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1TSCPA$PIM.coverage" NAME="PIM Coverage Results" MODIFIED="1710716258546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
