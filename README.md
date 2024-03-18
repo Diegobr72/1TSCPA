@@ -1,3 +1,3 @@
 ## 1TSCPA  
 
-Seja bem vindo ao meu repositorio da faculdade
+Seja bem vindo ao meu primeiro repositorio!

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Contagem Regressiva.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Checkpoint" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +59,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Checkpoint 1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Correcao do Checkpoint 1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Decisao sequencial float.executor&quot;: &quot;Run&quot;,
     &quot;Python.Decisao sequencial.executor&quot;: &quot;Run&quot;,
@@ -258,7 +256,7 @@
       <workItem from="1710703601267" duration="1135000" />
       <workItem from="1710708408878" duration="8847000" />
       <workItem from="1710717653876" duration="27000" />
-      <workItem from="1710717758750" duration="1141000" />
+      <workItem from="1710717758750" duration="1481000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro codigo">
       <option name="closed" value="true" />
@@ -572,7 +570,39 @@
       <option name="project" value="LOCAL" />
       <updated>1710717973105</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Time">
+      <option name="closed" value="true" />
+      <created>1710718916563</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1710718916563</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Correcao do Checkpoint">
+      <option name="closed" value="true" />
+      <created>1710718971392</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1710718971392</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Correcao do Checkpoint">
+      <option name="closed" value="true" />
+      <created>1710719028589</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1710719028589</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Checkpoint">
+      <option name="closed" value="true" />
+      <created>1710719119410</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1710719119410</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,9 +620,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programa da Caixa DAgua V2" />
-    <MESSAGE value="Progama para verificar qual seu abastecimento" />
-    <MESSAGE value="síndico do condomínio" />
     <MESSAGE value="possivel a compra" />
     <MESSAGE value="Decisao sequencial inteiro" />
     <MESSAGE value="Decisao sequencial float" />
@@ -615,7 +642,10 @@
     <MESSAGE value="TIME" />
     <MESSAGE value="delete read me" />
     <MESSAGE value="teste" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste" />
+    <MESSAGE value="Time" />
+    <MESSAGE value="Correcao do Checkpoint" />
+    <MESSAGE value="Checkpoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checkpoint" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1TSCPA$PIM.coverage" NAME="PIM Coverage Results" MODIFIED="1710716258546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
@@ -625,6 +655,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V4.coverage" NAME="Permissao para dirigir V4 Coverage Results" MODIFIED="1710710550538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Sindico_do_Condominio.coverage" NAME="Sindico do Condominio Coverage Results" MODIFIED="1710711060901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
     <SUITE FILE_PATH="coverage/1TSCPA$possivel_a_compra.coverage" NAME="possivel a compra Coverage Results" MODIFIED="1710711221405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Checkpoint_1.coverage" NAME="Checkpoint 1 Coverage Results" MODIFIED="1710719078466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
     <SUITE FILE_PATH="coverage/1TSCPA$Primeira_variavel.coverage" NAME="Primeira variavel Coverage Results" MODIFIED="1710708796414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Programa_da_Caixa_DAgua_V1.coverage" NAME="Programa da Caixa DAgua V1 Coverage Results" MODIFIED="1710710704494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Mes.coverage" NAME="Mes Coverage Results" MODIFIED="1710712409989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/9 Setembro/27" />
