@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Checkpoint" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Alterei o README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,6 +257,7 @@
       <workItem from="1710708408878" duration="8847000" />
       <workItem from="1710717653876" duration="27000" />
       <workItem from="1710717758750" duration="1481000" />
+      <workItem from="1710720170478" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro codigo">
       <option name="closed" value="true" />
@@ -602,7 +603,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710719119410</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Alterei o README.md">
+      <option name="closed" value="true" />
+      <created>1710720334618</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1710720334618</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +629,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="possivel a compra" />
     <MESSAGE value="Decisao sequencial inteiro" />
     <MESSAGE value="Decisao sequencial float" />
     <MESSAGE value="Decisao por selecao" />
@@ -645,7 +653,8 @@
     <MESSAGE value="Time" />
     <MESSAGE value="Correcao do Checkpoint" />
     <MESSAGE value="Checkpoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checkpoint" />
+    <MESSAGE value="Alterei o README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterei o README.md" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1TSCPA$PIM.coverage" NAME="PIM Coverage Results" MODIFIED="1710716258546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
