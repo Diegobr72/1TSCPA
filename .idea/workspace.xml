@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Alterei o README.md" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Fibonacci.py">
+      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11/par e impar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11/Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11/Fibonacci.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,44 +60,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Checkpoint 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Correcao do Checkpoint 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Decisao sequencial float.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Decisao sequencial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Input (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Media.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Mes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PIM.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Permissao para dirigir V4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Primeira variavel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programa da Caixa DAgua V1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sindico do Condominio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada V2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada V3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada V5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tabuada.executor&quot;: &quot;Run&quot;,
-    &quot;Python.possivel a compra.executor&quot;: &quot;Run&quot;,
-    &quot;Python.time.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/PycharmProjects/1TSCPA/Database Application - Patricia/2023/10 Outubro/04/Tabuada&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.13.executor": "Run",
+    "Python.Checkpoint 1.executor": "Run",
+    "Python.Correcao do Checkpoint 1.executor": "Run",
+    "Python.Decisao sequencial float.executor": "Run",
+    "Python.Decisao sequencial.executor": "Run",
+    "Python.Fibonacci.executor": "Run",
+    "Python.Input (1).executor": "Run",
+    "Python.Media.executor": "Run",
+    "Python.Mes.executor": "Run",
+    "Python.PIM.executor": "Run",
+    "Python.Permissao para dirigir V1.executor": "Run",
+    "Python.Permissao para dirigir V2.executor": "Run",
+    "Python.Permissao para dirigir V3.executor": "Run",
+    "Python.Permissao para dirigir V4.executor": "Run",
+    "Python.Primeira variavel.executor": "Run",
+    "Python.Programa da Caixa DAgua V1.executor": "Run",
+    "Python.Repeticao com teste logico.executor": "Run",
+    "Python.Sindico do Condominio.executor": "Run",
+    "Python.Tabuada V2.executor": "Run",
+    "Python.Tabuada V3.executor": "Run",
+    "Python.Tabuada V5.executor": "Run",
+    "Python.Tabuada.executor": "Run",
+    "Python.possivel a compra.executor": "Run",
+    "Python.time.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/diego/PycharmProjects/1TSCPA/Database Application - Patricia/2023/10 Outubro/04/Tabuada",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\04\Tabuada" />
@@ -109,7 +115,7 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Repeticao com teste logico">
+  <component name="RunManager" selected="Python.Fibonacci">
     <configuration name="Checkpoint 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
@@ -125,6 +131,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Checkpoint 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1TSCPA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11/Fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,29 +208,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tabuada V5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="1TSCPA" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada/Tabuada V5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
@@ -227,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fibonacci" />
         <item itemvalue="Python.Repeticao com teste logico" />
         <item itemvalue="Python.Checkpoint 1" />
         <item itemvalue="Python.time" />
         <item itemvalue="Python.PIM" />
-        <item itemvalue="Python.Tabuada V5" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +263,7 @@
       <workItem from="1710708408878" duration="8847000" />
       <workItem from="1710717653876" duration="27000" />
       <workItem from="1710717758750" duration="1481000" />
-      <workItem from="1710720170478" duration="394000" />
+      <workItem from="1710720170478" duration="699000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro codigo">
       <option name="closed" value="true" />
@@ -611,7 +617,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710720334618</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Repeticao com teste logico.py">
+      <option name="closed" value="true" />
+      <created>1710721071395</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1710721071395</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Fibonacci.py">
+      <option name="closed" value="true" />
+      <created>1710721179908</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1710721179908</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,8 +651,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Decisao sequencial inteiro" />
-    <MESSAGE value="Decisao sequencial float" />
     <MESSAGE value="Decisao por selecao" />
     <MESSAGE value="Aprovado na faculdade" />
     <MESSAGE value="Patricia" />
@@ -654,7 +674,9 @@
     <MESSAGE value="Correcao do Checkpoint" />
     <MESSAGE value="Checkpoint" />
     <MESSAGE value="Alterei o README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alterei o README.md" />
+    <MESSAGE value="Repeticao com teste logico.py" />
+    <MESSAGE value="Fibonacci.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1TSCPA$PIM.coverage" NAME="PIM Coverage Results" MODIFIED="1710716258546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
