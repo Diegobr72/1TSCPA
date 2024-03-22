@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="inverter professora" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Slicing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Coleção.py" beforeDir="false" afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Coleção.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Slicing.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +66,7 @@
     "Python.3_CODIGO_CP2_DATAEXPLORE.executor": "Debug",
     "Python.Checkpoint 1.executor": "Run",
     "Python.Checkpoint 2.executor": "Run",
+    "Python.Coleção.executor": "Run",
     "Python.Contador e pares e impas.executor": "Run",
     "Python.Correcao do Checkpoint 1.executor": "Run",
     "Python.Decisao sequencial float.executor": "Run",
@@ -83,6 +88,7 @@
     "Python.Programa da Caixa DAgua V1.executor": "Run",
     "Python.Repeticao com teste logico.executor": "Run",
     "Python.Sindico do Condominio.executor": "Run",
+    "Python.Slicing.executor": "Run",
     "Python.Tabuada V2.executor": "Run",
     "Python.Tabuada V3.executor": "Run",
     "Python.Tabuada V5.executor": "Run",
@@ -120,7 +126,7 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\Estruturas de repeticao" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.codigo professora">
+  <component name="RunManager" selected="Python.Coleção">
     <configuration name="3_CODIGO_CP2_DATAEXPLORE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
@@ -144,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Checkpoint 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Coleção" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,12 +159,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25/Checkpoint 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Coleção.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Inverter numero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Slicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,12 +205,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11/Inverter numero.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Slicing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Coleção" />
+        <item itemvalue="Python.Slicing" />
         <item itemvalue="Python.codigo professora" />
         <item itemvalue="Python.Inverte 4 numeros" />
         <item itemvalue="Python.3_CODIGO_CP2_DATAEXPLORE" />
-        <item itemvalue="Python.Checkpoint 2" />
-        <item itemvalue="Python.Inverter numero" />
       </list>
     </recent_temporary>
   </component>
@@ -269,23 +275,7 @@
       <workItem from="1710717653876" duration="27000" />
       <workItem from="1710717758750" duration="1481000" />
       <workItem from="1710720170478" duration="1977000" />
-      <workItem from="1711073938351" duration="2518000" />
-    </task>
-    <task id="LOCAL-00010" summary="Programa da Caixa DAgua V2">
-      <option name="closed" value="true" />
-      <created>1710710807455</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1710710807455</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Progama para verificar qual seu abastecimento">
-      <option name="closed" value="true" />
-      <created>1710710880701</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1710710880701</updated>
+      <workItem from="1711073938351" duration="2842000" />
     </task>
     <task id="LOCAL-00012" summary="síndico do condomínio">
       <option name="closed" value="true" />
@@ -663,7 +653,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711076368857</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Coleção">
+      <option name="closed" value="true" />
+      <created>1711076606949</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1711076606949</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Slicing">
+      <option name="closed" value="true" />
+      <created>1711076694946</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1711076694947</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -681,8 +687,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tabuada V3.py" />
-    <MESSAGE value="Tabuada V4.py" />
     <MESSAGE value="Tabuada V5.py" />
     <MESSAGE value="PIM" />
     <MESSAGE value="Dividido 5" />
@@ -706,7 +710,9 @@
     <MESSAGE value="invert" />
     <MESSAGE value="inverter corrigido" />
     <MESSAGE value="inverter professora" />
-    <option name="LAST_COMMIT_MESSAGE" value="inverter professora" />
+    <MESSAGE value="Coleção" />
+    <MESSAGE value="Slicing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Slicing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -737,6 +743,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$codigo_professora.coverage" NAME="codigo professora Coverage Results" MODIFIED="1711076339213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/18" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V2.coverage" NAME="Permissao para dirigir V2 Coverage Results" MODIFIED="1710710117613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V5.coverage" NAME="Tabuada V5 Coverage Results" MODIFIED="1710715262228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Slicing.coverage" NAME="Slicing Coverage Results" MODIFIED="1711076734823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07" />
     <SUITE FILE_PATH="coverage/1TSCPA$13.coverage" NAME="13 Coverage Results" MODIFIED="1710708789250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro" />
     <SUITE FILE_PATH="coverage/1TSCPA$Inverter_numero.coverage" NAME="Inverter numero Coverage Results" MODIFIED="1710721758527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
     <SUITE FILE_PATH="coverage/1TSCPA$Decisao_sequencial.coverage" NAME="Decisao sequencial Coverage Results" MODIFIED="1710711297064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
@@ -746,6 +753,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$Repeticao_com_teste_logico.coverage" NAME="Repeticao com teste logico Coverage Results" MODIFIED="1710721079916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
     <SUITE FILE_PATH="coverage/1TSCPA$Sindico_do_Condominio.coverage" NAME="Sindico do Condominio Coverage Results" MODIFIED="1710711060901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
     <SUITE FILE_PATH="coverage/1TSCPA$Checkpoint_1.coverage" NAME="Checkpoint 1 Coverage Results" MODIFIED="1710719078466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Coleção.coverage" NAME="Coleção Coverage Results" MODIFIED="1711076815125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V2.coverage" NAME="Tabuada V2 Coverage Results" MODIFIED="1710715044438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
     <SUITE FILE_PATH="coverage/1TSCPA$3_CODIGO_CP2_DATAEXPLORE.coverage" NAME="3_CODIGO_CP2_DATAEXPLORE Coverage Results" MODIFIED="1711074872448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada.coverage" NAME="Tabuada Coverage Results" MODIFIED="1710714940711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro" />
