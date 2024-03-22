@@ -16,3 +16,4 @@ if 1000 <= numero <= 9999:
     inverso = inverso * 10 + d4 # 678 * 10 + 9 = 6789
 
     numero_invertido = d1 * 1000 + d2 * 100 + d3 * 10 + d4
+
