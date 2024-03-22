@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Convidados V3">
-      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Exercios lista de convidados/Convidados V4.py" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="tupla">
+      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/21/Cardapio Festa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +94,7 @@
     "Python.Tabuada V3.executor": "Run",
     "Python.Tabuada V5.executor": "Run",
     "Python.Tabuada.executor": "Run",
+    "Python.Tupla.executor": "Run",
     "Python.codigo professora.executor": "Run",
     "Python.par e impar.executor": "Run",
     "Python.possivel a compra.executor": "Run",
@@ -128,7 +129,7 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\04\Tabuada" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Convidados V2">
+  <component name="RunManager" selected="Python.Tupla">
     <configuration name="Coleção" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
@@ -221,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="codigo professora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,12 +231,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/18" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/18/codigo professora.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/21/Tupla.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tupla" />
         <item itemvalue="Python.Convidados V2" />
         <item itemvalue="Python.Convidados V1" />
         <item itemvalue="Python.Coleção" />
         <item itemvalue="Python.Slicing" />
-        <item itemvalue="Python.codigo professora" />
       </list>
     </recent_temporary>
   </component>
@@ -277,23 +278,7 @@
       <workItem from="1710717653876" duration="27000" />
       <workItem from="1710717758750" duration="1481000" />
       <workItem from="1710720170478" duration="1977000" />
-      <workItem from="1711073938351" duration="3918000" />
-    </task>
-    <task id="LOCAL-00017" summary="Decisao por selecao">
-      <option name="closed" value="true" />
-      <created>1710711614887</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1710711614887</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Aprovado na faculdade">
-      <option name="closed" value="true" />
-      <created>1710711681112</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1710711681112</updated>
+      <workItem from="1711073938351" duration="4234000" />
     </task>
     <task id="LOCAL-00019" summary="Patricia">
       <option name="closed" value="true" />
@@ -671,7 +656,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711077259436</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Convidados V4">
+      <option name="closed" value="true" />
+      <created>1711078168677</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1711078168677</updated>
+    </task>
+    <task id="LOCAL-00067" summary="tupla">
+      <option name="closed" value="true" />
+      <created>1711078381331</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1711078381331</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -689,8 +690,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TIME" />
-    <MESSAGE value="delete read me" />
     <MESSAGE value="teste" />
     <MESSAGE value="Time" />
     <MESSAGE value="Correcao do Checkpoint" />
@@ -714,7 +713,9 @@
     <MESSAGE value="Convidados V1" />
     <MESSAGE value="Convidados V2" />
     <MESSAGE value="Convidados V3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Convidados V3" />
+    <MESSAGE value="Convidados V4" />
+    <MESSAGE value="tupla" />
+    <option name="LAST_COMMIT_MESSAGE" value="tupla" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -757,6 +758,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$Sindico_do_Condominio.coverage" NAME="Sindico do Condominio Coverage Results" MODIFIED="1710711060901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
     <SUITE FILE_PATH="coverage/1TSCPA$Checkpoint_1.coverage" NAME="Checkpoint 1 Coverage Results" MODIFIED="1710719078466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
     <SUITE FILE_PATH="coverage/1TSCPA$Coleção.coverage" NAME="Coleção Coverage Results" MODIFIED="1711076815125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Tupla.coverage" NAME="Tupla Coverage Results" MODIFIED="1711078388563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/21" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V2.coverage" NAME="Tabuada V2 Coverage Results" MODIFIED="1710715044438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
     <SUITE FILE_PATH="coverage/1TSCPA$Convidados_V2.coverage" NAME="Convidados V2 Coverage Results" MODIFIED="1711077160414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Exercios lista de convidados" />
     <SUITE FILE_PATH="coverage/1TSCPA$3_CODIGO_CP2_DATAEXPLORE.coverage" NAME="3_CODIGO_CP2_DATAEXPLORE Coverage Results" MODIFIED="1711074872448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25" />
