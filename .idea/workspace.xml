@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="inverter corrigido">
-      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/18/Inverte 4 numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/18/Inverte 4 numeros.py" afterDir="false" />
-    </list>
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="inverter professora" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +87,7 @@
     "Python.Tabuada V3.executor": "Run",
     "Python.Tabuada V5.executor": "Run",
     "Python.Tabuada.executor": "Run",
+    "Python.codigo professora.executor": "Run",
     "Python.par e impar.executor": "Run",
     "Python.possivel a compra.executor": "Run",
     "Python.time.executor": "Run",
@@ -270,23 +269,7 @@
       <workItem from="1710717653876" duration="27000" />
       <workItem from="1710717758750" duration="1481000" />
       <workItem from="1710720170478" duration="1977000" />
-      <workItem from="1711073938351" duration="2165000" />
-    </task>
-    <task id="LOCAL-00008" summary="Permissao para dirigir V4">
-      <option name="closed" value="true" />
-      <created>1710710573197</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1710710573197</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Permissao para dirigir V4">
-      <option name="closed" value="true" />
-      <created>1710710736905</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1710710736905</updated>
+      <workItem from="1711073938351" duration="2518000" />
     </task>
     <task id="LOCAL-00010" summary="Programa da Caixa DAgua V2">
       <option name="closed" value="true" />
@@ -664,7 +647,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711075861820</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="inverter corrigido">
+      <option name="closed" value="true" />
+      <created>1711076144651</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1711076144651</updated>
+    </task>
+    <task id="LOCAL-00058" summary="inverter professora">
+      <option name="closed" value="true" />
+      <created>1711076368856</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1711076368857</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -682,7 +681,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tabuada V2.py" />
     <MESSAGE value="Tabuada V3.py" />
     <MESSAGE value="Tabuada V4.py" />
     <MESSAGE value="Tabuada V5.py" />
@@ -707,7 +705,8 @@
     <MESSAGE value="checkpoint" />
     <MESSAGE value="invert" />
     <MESSAGE value="inverter corrigido" />
-    <option name="LAST_COMMIT_MESSAGE" value="inverter corrigido" />
+    <MESSAGE value="inverter professora" />
+    <option name="LAST_COMMIT_MESSAGE" value="inverter professora" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -735,6 +734,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$Checkpoint_2.coverage" NAME="Checkpoint 2 Coverage Results" MODIFIED="1710722420833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25" />
     <SUITE FILE_PATH="coverage/1TSCPA$Input__1_.coverage" NAME="Input (1) Coverage Results" MODIFIED="1710709827091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$par_e_impar.coverage" NAME="Contador e pares e impas Coverage Results" MODIFIED="1710721500672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
+    <SUITE FILE_PATH="coverage/1TSCPA$codigo_professora.coverage" NAME="codigo professora Coverage Results" MODIFIED="1711076339213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/18" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V2.coverage" NAME="Permissao para dirigir V2 Coverage Results" MODIFIED="1710710117613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V5.coverage" NAME="Tabuada V5 Coverage Results" MODIFIED="1710715262228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
     <SUITE FILE_PATH="coverage/1TSCPA$13.coverage" NAME="13 Coverage Results" MODIFIED="1710708789250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro" />
