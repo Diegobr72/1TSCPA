@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Convidados V1">
-      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Exercios lista de convidados/Convidados V2.py" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Convidados V3">
+      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Exercios lista de convidados/Convidados V4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Python.Checkpoint 2.executor": "Run",
     "Python.Coleção.executor": "Run",
     "Python.Contador e pares e impas.executor": "Run",
+    "Python.Convidados V2.executor": "Run",
     "Python.Correcao do Checkpoint 1.executor": "Run",
     "Python.Decisao sequencial float.executor": "Run",
     "Python.Decisao sequencial.executor": "Run",
@@ -276,23 +277,7 @@
       <workItem from="1710717653876" duration="27000" />
       <workItem from="1710717758750" duration="1481000" />
       <workItem from="1710720170478" duration="1977000" />
-      <workItem from="1711073938351" duration="3154000" />
-    </task>
-    <task id="LOCAL-00015" summary="Decisao sequencial float">
-      <option name="closed" value="true" />
-      <created>1710711437802</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1710711437802</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Decisao sequencial float">
-      <option name="closed" value="true" />
-      <created>1710711517324</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1710711517324</updated>
+      <workItem from="1711073938351" duration="3918000" />
     </task>
     <task id="LOCAL-00017" summary="Decisao por selecao">
       <option name="closed" value="true" />
@@ -670,7 +655,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711077110769</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Convidados V2">
+      <option name="closed" value="true" />
+      <created>1711077198165</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1711077198165</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Convidados V3">
+      <option name="closed" value="true" />
+      <created>1711077259436</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1711077259436</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -688,8 +689,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ordenação" />
-    <MESSAGE value="ordenacao" />
     <MESSAGE value="TIME" />
     <MESSAGE value="delete read me" />
     <MESSAGE value="teste" />
@@ -713,7 +712,9 @@
     <MESSAGE value="coleção" />
     <MESSAGE value="COnvidados" />
     <MESSAGE value="Convidados V1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Convidados V1" />
+    <MESSAGE value="Convidados V2" />
+    <MESSAGE value="Convidados V3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convidados V3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -757,6 +758,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$Checkpoint_1.coverage" NAME="Checkpoint 1 Coverage Results" MODIFIED="1710719078466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04" />
     <SUITE FILE_PATH="coverage/1TSCPA$Coleção.coverage" NAME="Coleção Coverage Results" MODIFIED="1711076815125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V2.coverage" NAME="Tabuada V2 Coverage Results" MODIFIED="1710715044438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Convidados_V2.coverage" NAME="Convidados V2 Coverage Results" MODIFIED="1711077160414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Exercios lista de convidados" />
     <SUITE FILE_PATH="coverage/1TSCPA$3_CODIGO_CP2_DATAEXPLORE.coverage" NAME="3_CODIGO_CP2_DATAEXPLORE Coverage Results" MODIFIED="1711074872448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada.coverage" NAME="Tabuada Coverage Results" MODIFIED="1710714940711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V3.coverage" NAME="Permissao para dirigir V3 Coverage Results" MODIFIED="1710710455977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
