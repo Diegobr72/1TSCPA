@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Aula 6 , 7 e 8">
-      <change afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/1º semestre/aula03_04_dataset_dados_1997_2011_paises.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/1º semestre/Aula_03_e_04_Statistics.ipynb" beforeDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Aula 3">
+      <change afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_08_Funções_Limites_Derivadas_Integrais.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_08_Material_complementar_exemplos_integrais_parte2_índice_gini.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/dados_renda_municipios.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;history&quot;: [
@@ -282,15 +283,7 @@
       <workItem from="1711243145877" duration="533000" />
       <workItem from="1711328367508" duration="143000" />
       <workItem from="1711329018804" duration="1084000" />
-      <workItem from="1711364404175" duration="92000" />
-    </task>
-    <task id="LOCAL-00030" summary="PIM">
-      <option name="closed" value="true" />
-      <created>1710715593428</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1710715593428</updated>
+      <workItem from="1711364404175" duration="434000" />
     </task>
     <task id="LOCAL-00031" summary="Dividido 5">
       <option name="closed" value="true" />
@@ -676,7 +669,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711329550595</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Aula 3">
+      <option name="closed" value="true" />
+      <created>1711364764912</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1711364764913</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -694,7 +695,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Contador e pares e impas com ia" />
     <MESSAGE value="numeros pares.py" />
     <MESSAGE value="Inverter numero.py" />
     <MESSAGE value="checkpoint" />
@@ -719,7 +719,8 @@
     <MESSAGE value="Statistics" />
     <MESSAGE value="Aula 3 e 4" />
     <MESSAGE value="Aula 6 , 7 e 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 6 , 7 e 8" />
+    <MESSAGE value="Aula 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
