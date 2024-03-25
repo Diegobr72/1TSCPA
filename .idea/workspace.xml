@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Aula 3">
-      <change afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_08_Funções_Limites_Derivadas_Integrais.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_08_Material_complementar_exemplos_integrais_parte2_índice_gini.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/dados_renda_municipios.csv" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="aula 9">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_9.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -283,31 +282,7 @@
       <workItem from="1711243145877" duration="533000" />
       <workItem from="1711328367508" duration="143000" />
       <workItem from="1711329018804" duration="1084000" />
-      <workItem from="1711364404175" duration="434000" />
-    </task>
-    <task id="LOCAL-00031" summary="Dividido 5">
-      <option name="closed" value="true" />
-      <created>1710715662414</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1710715662414</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Ordenação">
-      <option name="closed" value="true" />
-      <created>1710715752230</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1710715752230</updated>
-    </task>
-    <task id="LOCAL-00033" summary="ordenacao">
-      <option name="closed" value="true" />
-      <created>1710715806345</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1710715806345</updated>
+      <workItem from="1711364404175" duration="1226000" />
     </task>
     <task id="LOCAL-00034" summary="TIME">
       <option name="closed" value="true" />
@@ -677,7 +652,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711364764913</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Aula 8">
+      <option name="closed" value="true" />
+      <created>1711364861706</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1711364861706</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Material complementar">
+      <option name="closed" value="true" />
+      <created>1711364944899</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1711364944899</updated>
+    </task>
+    <task id="LOCAL-00082" summary="aula 9">
+      <option name="closed" value="true" />
+      <created>1711365123299</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1711365123299</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -695,9 +694,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="numeros pares.py" />
-    <MESSAGE value="Inverter numero.py" />
-    <MESSAGE value="checkpoint" />
     <MESSAGE value="invert" />
     <MESSAGE value="inverter corrigido" />
     <MESSAGE value="inverter professora" />
@@ -720,7 +716,10 @@
     <MESSAGE value="Aula 3 e 4" />
     <MESSAGE value="Aula 6 , 7 e 8" />
     <MESSAGE value="Aula 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 3" />
+    <MESSAGE value="Aula 8" />
+    <MESSAGE value="Material complementar" />
+    <MESSAGE value="aula 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
