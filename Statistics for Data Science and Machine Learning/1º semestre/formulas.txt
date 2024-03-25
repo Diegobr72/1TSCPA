@@ -1,0 +1,6 @@
+# **Normalização**
+##    $n =  \frac{x - x_{min}}{x_{max} - x_{min}} $
+
+
+# **Padronização**
+##    $p =  \frac{x - \mathbf{𝞵}}{σ} $

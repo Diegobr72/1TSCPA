@@ -1,0 +1,14 @@
+import numpy as np
+import pandas as pd
+
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+import seaborn as sns
+
+df_dados_paises = pd.read_csv('/home/aula03_04_dataset_dados_1997_2011_paises.csv',
+                              sep = ';',
+                              encoding='latin1',
+                              decimal=',')
+
+df_dados_paises
