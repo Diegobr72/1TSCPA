@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Statistics">
-      <change beforePath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/1º semestre/Aula_01_e_02_Statistics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/1º semestre/Aula_01_e_02_Statistics.ipynb" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Aula 6 , 7 e 8">
+      <change afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/1º semestre/aula03_04_dataset_dados_1997_2011_paises.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/1º semestre/Aula_03_e_04_Statistics.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,6 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;history&quot;: [
@@ -108,7 +109,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -257,7 +258,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -280,23 +281,8 @@
       <workItem from="1711073938351" duration="4879000" />
       <workItem from="1711243145877" duration="533000" />
       <workItem from="1711328367508" duration="143000" />
-      <workItem from="1711329018804" duration="283000" />
-    </task>
-    <task id="LOCAL-00028" summary="Tabuada V5.py">
-      <option name="closed" value="true" />
-      <created>1710715290971</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1710715290971</updated>
-    </task>
-    <task id="LOCAL-00029" summary="PIM">
-      <option name="closed" value="true" />
-      <created>1710715354038</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1710715354038</updated>
+      <workItem from="1711329018804" duration="1084000" />
+      <workItem from="1711364404175" duration="92000" />
     </task>
     <task id="LOCAL-00030" summary="PIM">
       <option name="closed" value="true" />
@@ -674,7 +660,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711329293622</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Aula 3 e 4">
+      <option name="closed" value="true" />
+      <created>1711329398406</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1711329398406</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Aula 6 , 7 e 8">
+      <option name="closed" value="true" />
+      <created>1711329550595</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1711329550595</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -692,8 +694,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="par e impares" />
-    <MESSAGE value="Contador e pares e impas" />
     <MESSAGE value="Contador e pares e impas com ia" />
     <MESSAGE value="numeros pares.py" />
     <MESSAGE value="Inverter numero.py" />
@@ -717,7 +717,9 @@
     <MESSAGE value="Slicing em textos.py" />
     <MESSAGE value="Dicionario.py" />
     <MESSAGE value="Statistics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Statistics" />
+    <MESSAGE value="Aula 3 e 4" />
+    <MESSAGE value="Aula 6 , 7 e 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 6 , 7 e 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
