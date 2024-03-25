@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Desvio padrão e desvio medio absoluto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Desvio medio">
+      <change afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/aula03_04_dataset_dados_1997_2011_paises.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_9.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -282,15 +282,7 @@
       <workItem from="1711243145877" duration="533000" />
       <workItem from="1711328367508" duration="143000" />
       <workItem from="1711329018804" duration="1084000" />
-      <workItem from="1711364404175" duration="4586000" />
-    </task>
-    <task id="LOCAL-00036" summary="delete read me">
-      <option name="closed" value="true" />
-      <created>1710716580059</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1710716580059</updated>
+      <workItem from="1711364404175" duration="4824000" />
     </task>
     <task id="LOCAL-00037" summary="delete read me">
       <option name="closed" value="true" />
@@ -676,7 +668,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711375132896</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Desvio medio">
+      <option name="closed" value="true" />
+      <created>1711376292197</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1711376292198</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -694,7 +694,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="inverter professora" />
     <MESSAGE value="Coleção" />
     <MESSAGE value="Slicing" />
     <MESSAGE value="coleção" />
@@ -719,7 +718,8 @@
     <MESSAGE value="aula 9" />
     <MESSAGE value="aula 9 com as bibliotecas" />
     <MESSAGE value="Desvio padrão e desvio medio absoluto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desvio padrão e desvio medio absoluto" />
+    <MESSAGE value="Desvio medio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desvio medio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
