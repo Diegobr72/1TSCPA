@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Slicing em textos.py" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Dicionario.py">
+      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/28/Convidados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +129,7 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\04" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Tupla">
+  <component name="RunManager" selected="Python.Convidados">
     <configuration name="Coleção" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
@@ -196,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Slicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Convidados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1TSCPA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,12 +208,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/28" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07/Slicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/28/Convidados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Convidados" />
         <item itemvalue="Python.Tupla" />
         <item itemvalue="Python.Convidados V2" />
         <item itemvalue="Python.Convidados V1" />
         <item itemvalue="Python.Coleção" />
-        <item itemvalue="Python.Slicing" />
       </list>
     </recent_temporary>
   </component>
@@ -276,22 +279,8 @@
       <workItem from="1710717758750" duration="1481000" />
       <workItem from="1710720170478" duration="1977000" />
       <workItem from="1711073938351" duration="4879000" />
-    </task>
-    <task id="LOCAL-00025" summary="Tabuada V2.py">
-      <option name="closed" value="true" />
-      <created>1710715067477</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1710715067477</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Tabuada V3.py">
-      <option name="closed" value="true" />
-      <created>1710715168998</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1710715168998</updated>
+      <workItem from="1711243145877" duration="533000" />
+      <workItem from="1711328367508" duration="143000" />
     </task>
     <task id="LOCAL-00027" summary="Tabuada V4.py">
       <option name="closed" value="true" />
@@ -669,7 +658,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711079061411</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Dicionario.py">
+      <option name="closed" value="true" />
+      <created>1711243442184</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1711243442185</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Dicionario.py">
+      <option name="closed" value="true" />
+      <created>1711328452668</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1711328452669</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -687,7 +692,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Repeticao com teste logico.py" />
     <MESSAGE value="Fibonacci.py" />
     <MESSAGE value="par e impares" />
     <MESSAGE value="Contador e pares e impas" />
@@ -712,7 +716,8 @@
     <MESSAGE value="Cardapio Festa V4.py" />
     <MESSAGE value="Cardapio Festa V5.py" />
     <MESSAGE value="Slicing em textos.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Slicing em textos.py" />
+    <MESSAGE value="Dicionario.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dicionario.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -742,6 +747,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$Input__1_.coverage" NAME="Input (1) Coverage Results" MODIFIED="1710709827091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$par_e_impar.coverage" NAME="Contador e pares e impas Coverage Results" MODIFIED="1710721500672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
     <SUITE FILE_PATH="coverage/1TSCPA$codigo_professora.coverage" NAME="codigo professora Coverage Results" MODIFIED="1711076339213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/18" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Convidados.coverage" NAME="Convidados Coverage Results" MODIFIED="1711299363850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/28" />
     <SUITE FILE_PATH="coverage/1TSCPA$Permissao_para_dirigir_V2.coverage" NAME="Permissao para dirigir V2 Coverage Results" MODIFIED="1710710117613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Tabuada_V5.coverage" NAME="Tabuada V5 Coverage Results" MODIFIED="1710715262228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/04/Tabuada" />
     <SUITE FILE_PATH="coverage/1TSCPA$Slicing.coverage" NAME="Slicing Coverage Results" MODIFIED="1711076734823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/2 Fevereiro/07" />
