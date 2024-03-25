@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="aula 9">
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="aula 9 com as bibliotecas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_9.ipynb" afterDir="false" />
     </list>
@@ -282,15 +282,7 @@
       <workItem from="1711243145877" duration="533000" />
       <workItem from="1711328367508" duration="143000" />
       <workItem from="1711329018804" duration="1084000" />
-      <workItem from="1711364404175" duration="1226000" />
-    </task>
-    <task id="LOCAL-00034" summary="TIME">
-      <option name="closed" value="true" />
-      <created>1710716336601</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1710716336601</updated>
+      <workItem from="1711364404175" duration="3290000" />
     </task>
     <task id="LOCAL-00035" summary="delete read me">
       <option name="closed" value="true" />
@@ -676,7 +668,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711365123299</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="aula 9 com as bibliotecas">
+      <option name="closed" value="true" />
+      <created>1711365733832</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1711365733832</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -694,7 +694,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="invert" />
     <MESSAGE value="inverter corrigido" />
     <MESSAGE value="inverter professora" />
     <MESSAGE value="Coleção" />
@@ -719,7 +718,8 @@
     <MESSAGE value="Aula 8" />
     <MESSAGE value="Material complementar" />
     <MESSAGE value="aula 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula 9" />
+    <MESSAGE value="aula 9 com as bibliotecas" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 9 com as bibliotecas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
