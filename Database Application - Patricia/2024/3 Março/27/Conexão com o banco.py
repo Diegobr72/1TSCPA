@@ -1,5 +1,5 @@
 import oracledb
-conn = oracledb.connect(user="RM552603", password="080396",
+conn = oracledb.connect(user="RM552603", password="080386",
 dsn="oracle.fiap.com.br:1521/orcl")
 
 
@@ -19,3 +19,5 @@ with conn.cursor () as c_consulta:
     c_consulta.execute(cons)
     aluno=list(c_consulta.fetchone())
     print(aluno)
+
+conn.close()
