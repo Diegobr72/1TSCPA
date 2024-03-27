@@ -61,6 +61,19 @@ while conexao:
             else:
                 print(aluno)
 
+    if escolha == 3:
+        print("\nCadastrar um aluno")
+        nome = input("Qual o nome do aluno? ")
+        idade = int(input("Qual a idade do aluno? "))
+        endereco = input("Qual o endereço do aluno? ")
+        curso = input("Qual o curso desse aluno? ")
 
+        with conn.cursor() as c_insert:
+            try:
+                c_insert.execute("INSERT INTO T_PY_ALUNO (nome, idade, endereco, curso) VALUES (:1, :2, :3, :4)",
+                                 (nome, idade, endereco, curso))
+                print("Aluno cadastrado com sucesso.")
+            except Exception as e:
+                print("Erro ao cadastrar aluno:", e)
 
 conn.close()
