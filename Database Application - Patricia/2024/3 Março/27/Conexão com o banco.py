@@ -7,8 +7,15 @@ dsn="oracle.fiap.com.br:1521/orcl")
 
 with conn.cursor () as c_consulta:
     cons = "select * from T_PY_ALUNO"
-    alunos = list(c_consulta.execute(cons))
+    c_consulta.execute(cons)
     #COMANDO EQUIVALENTE
     #aluno = c_consulta.execute("select * from T_PY_ALUNO")
 
+    alunos = list(c_consulta.fetchall())
     print(alunos)
+
+    #Reculperando um aluno da lista
+    print('Recuperando um aluno da tabela')
+    c_consulta.execute(cons)
+    aluno=list(c_consulta.fetchone())
+    print(aluno)
