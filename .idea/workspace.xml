@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Inserindo o menu de escolhas">
+      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/alunos.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/Conexão com o banco.py" beforeDir="false" afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/Conexão com o banco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/Conexão com o banco.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/Conexão com try.py" beforeDir="false" afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/Conexão com try.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +30,6 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;history&quot;: [
@@ -51,6 +51,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -60,63 +63,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.13.executor": "Run",
-    "Python.345.executor": "Run",
-    "Python.3_CODIGO_CP2_DATAEXPLORE.executor": "Debug",
-    "Python.Checkpoint 1.executor": "Run",
-    "Python.Checkpoint 2.executor": "Run",
-    "Python.Coleção.executor": "Run",
-    "Python.Conexão com o banco.executor": "Run",
-    "Python.Conexão com try.executor": "Run",
-    "Python.Contador e pares e impas.executor": "Run",
-    "Python.Convidados V2.executor": "Run",
-    "Python.Convidados.executor": "Run",
-    "Python.Correcao do Checkpoint 1.executor": "Run",
-    "Python.Decisao sequencial float.executor": "Run",
-    "Python.Decisao sequencial.executor": "Run",
-    "Python.Fibonacci.executor": "Run",
-    "Python.Input (1).executor": "Run",
-    "Python.Inverte 4 numeros.executor": "Run",
-    "Python.Inverte string.executor": "Run",
-    "Python.Inverte.executor": "Run",
-    "Python.Inverter numero.executor": "Run",
-    "Python.Media.executor": "Run",
-    "Python.Mes.executor": "Run",
-    "Python.PIM.executor": "Run",
-    "Python.Permissao para dirigir V1.executor": "Run",
-    "Python.Permissao para dirigir V2.executor": "Run",
-    "Python.Permissao para dirigir V3.executor": "Run",
-    "Python.Permissao para dirigir V4.executor": "Run",
-    "Python.Primeira variavel.executor": "Run",
-    "Python.Programa da Caixa DAgua V1.executor": "Run",
-    "Python.Repeticao com teste logico.executor": "Run",
-    "Python.Sindico do Condominio.executor": "Run",
-    "Python.Slicing.executor": "Run",
-    "Python.Tabuada V2.executor": "Run",
-    "Python.Tabuada V3.executor": "Run",
-    "Python.Tabuada V5.executor": "Run",
-    "Python.Tabuada.executor": "Run",
-    "Python.Tupla.executor": "Run",
-    "Python.codigo professora.executor": "Run",
-    "Python.par e impar.executor": "Run",
-    "Python.possivel a compra.executor": "Run",
-    "Python.time.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/diego/PycharmProjects/1TSCPA/Database Application - Patricia/2024/2 Fevereiro/21/Cardapio da Festa",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.345.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_CODIGO_CP2_DATAEXPLORE.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Checkpoint 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Checkpoint 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Coleção.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Conexão com o banco.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Conexão com try.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Contador e pares e impas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Convidados V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Convidados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Correcao do Checkpoint 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decisao sequencial float.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decisao sequencial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Input (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inverte 4 numeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inverte string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inverte.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inverter numero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Media.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PIM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Permissao para dirigir V1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Permissao para dirigir V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Permissao para dirigir V3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Permissao para dirigir V4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Primeira variavel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programa da Caixa DAgua V1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Repeticao com teste logico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sindico do Condominio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tabuada V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tabuada V3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tabuada V5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tabuada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tupla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.codigo professora.executor&quot;: &quot;Run&quot;,
+    &quot;Python.par e impar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.possivel a compra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/PycharmProjects/1TSCPA/Database Application - Patricia/2024/2 Fevereiro/21/Cardapio da Festa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\2 Fevereiro\21\Cardapio da Festa" />
@@ -126,11 +129,11 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\2023\9 Setembro\20" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\3 Março\27" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Statistics for Data Science and Machine Learning\2º semestre" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Statistics for Data Science and Machine Learning\1º semestre" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\2 Fevereiro\21\Cardapio da Festa" />
-      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\2 Fevereiro\07\Exercios lista de convidados" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Conexão com try">
@@ -751,7 +754,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$Media.coverage" NAME="Media Coverage Results" MODIFIED="1710709915435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Inverte.coverage" NAME="Inverte 4 numeros Coverage Results" MODIFIED="1711076119830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/18" />
     <SUITE FILE_PATH="coverage/1TSCPA$Decisao_sequencial_float.coverage" NAME="Decisao sequencial float Coverage Results" MODIFIED="1710711473627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
-    <SUITE FILE_PATH="coverage/1TSCPA$Conexão_com_try.coverage" NAME="Conexão com try Coverage Results" MODIFIED="1711545990569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Conexão_com_try.coverage" NAME="Conexão com try Coverage Results" MODIFIED="1711595320342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27" />
     <SUITE FILE_PATH="coverage/1TSCPA$Checkpoint_2.coverage" NAME="Checkpoint 2 Coverage Results" MODIFIED="1710722420833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25" />
     <SUITE FILE_PATH="coverage/1TSCPA$Input__1_.coverage" NAME="Input (1) Coverage Results" MODIFIED="1710709827091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$par_e_impar.coverage" NAME="Contador e pares e impas Coverage Results" MODIFIED="1710721500672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
