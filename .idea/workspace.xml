@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Inserindo o menu de escolhas">
-      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/alunos.csv" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Conexão com banco de dados com o python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/Conexão com o banco.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/Conexão com try.py" beforeDir="false" afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/Conexão com try.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,22 +289,7 @@
       <workItem from="1711364404175" duration="5357000" />
       <workItem from="1711399130438" duration="3456000" />
       <workItem from="1711537117621" duration="7758000" />
-    </task>
-    <task id="LOCAL-00044" summary="Alterei o README.md">
-      <option name="closed" value="true" />
-      <created>1710720334618</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1710720334618</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Repeticao com teste logico.py">
-      <option name="closed" value="true" />
-      <created>1710721071395</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1710721071395</updated>
+      <workItem from="1712141788993" duration="408000" />
     </task>
     <task id="LOCAL-00046" summary="Fibonacci.py">
       <option name="closed" value="true" />
@@ -685,7 +667,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711542698351</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Conexão com banco de dados com o python">
+      <option name="closed" value="true" />
+      <created>1711595487340</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1711595487341</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Conexão com banco de dados com o python">
+      <option name="closed" value="true" />
+      <created>1711595547701</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1711595547702</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -703,7 +701,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Convidados V3" />
     <MESSAGE value="Convidados V4" />
     <MESSAGE value="tupla" />
     <MESSAGE value="Cardapio Festa.py" />
@@ -728,7 +725,8 @@
     <MESSAGE value="Consulta com sucesso" />
     <MESSAGE value="Reculperando um aluno" />
     <MESSAGE value="Inserindo o menu de escolhas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inserindo o menu de escolhas" />
+    <MESSAGE value="Conexão com banco de dados com o python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conexão com banco de dados com o python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -754,7 +752,7 @@
     <SUITE FILE_PATH="coverage/1TSCPA$Media.coverage" NAME="Media Coverage Results" MODIFIED="1710709915435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$Inverte.coverage" NAME="Inverte 4 numeros Coverage Results" MODIFIED="1711076119830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/18" />
     <SUITE FILE_PATH="coverage/1TSCPA$Decisao_sequencial_float.coverage" NAME="Decisao sequencial float Coverage Results" MODIFIED="1710711473627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/20" />
-    <SUITE FILE_PATH="coverage/1TSCPA$Conexão_com_try.coverage" NAME="Conexão com try Coverage Results" MODIFIED="1711595320342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27" />
+    <SUITE FILE_PATH="coverage/1TSCPA$Conexão_com_try.coverage" NAME="Conexão com try Coverage Results" MODIFIED="1711595441451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27" />
     <SUITE FILE_PATH="coverage/1TSCPA$Checkpoint_2.coverage" NAME="Checkpoint 2 Coverage Results" MODIFIED="1710722420833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/25" />
     <SUITE FILE_PATH="coverage/1TSCPA$Input__1_.coverage" NAME="Input (1) Coverage Results" MODIFIED="1710709827091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023/9 Setembro/13" />
     <SUITE FILE_PATH="coverage/1TSCPA$par_e_impar.coverage" NAME="Contador e pares e impas Coverage Results" MODIFIED="1710721500672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database Application - Patricia/2023/10 Outubro/11" />
