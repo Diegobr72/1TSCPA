@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Meu primeiro PL/SQL">
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Trabalhando com variaveis declarativas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -292,14 +292,7 @@
       <workItem from="1712141788993" duration="408000" />
       <workItem from="1712146118508" duration="167000" />
       <workItem from="1712148141770" duration="88000" />
-    </task>
-    <task id="LOCAL-00047" summary="par e impares">
-      <option name="closed" value="true" />
-      <created>1710721311811</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1710721311811</updated>
+      <workItem from="1712148298534" duration="712000" />
     </task>
     <task id="LOCAL-00048" summary="Contador e pares e impas">
       <option name="closed" value="true" />
@@ -685,7 +678,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712146271319</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Trabalhando com variaveis declarativas">
+      <option name="closed" value="true" />
+      <created>1712148394372</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1712148394374</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -703,7 +704,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="tupla" />
     <MESSAGE value="Cardapio Festa.py" />
     <MESSAGE value="Cardapio Festa V3.py" />
     <MESSAGE value="Cardapio Festa V4.py" />
@@ -728,7 +728,8 @@
     <MESSAGE value="Inserindo o menu de escolhas" />
     <MESSAGE value="Conexão com banco de dados com o python" />
     <MESSAGE value="Meu primeiro PL/SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Meu primeiro PL/SQL" />
+    <MESSAGE value="Trabalhando com variaveis declarativas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com variaveis declarativas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
