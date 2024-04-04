@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="FAIXAS">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="PARES.sql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,8 +124,8 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\2023\9 Setembro\20" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03\FAIXAS" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03" />
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03\FAIXAS" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\3 Março\27" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Statistics for Data Science and Machine Learning\2º semestre" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Statistics for Data Science and Machine Learning\1º semestre" />
@@ -293,23 +291,7 @@
       <workItem from="1712146118508" duration="167000" />
       <workItem from="1712148141770" duration="88000" />
       <workItem from="1712148298534" duration="712000" />
-      <workItem from="1712196352900" duration="607000" />
-    </task>
-    <task id="LOCAL-00051" summary="numeros pares.py">
-      <option name="closed" value="true" />
-      <created>1710721652384</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1710721652384</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Inverter numero.py">
-      <option name="closed" value="true" />
-      <created>1710721733246</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1710721733246</updated>
+      <workItem from="1712196352900" duration="1216000" />
     </task>
     <task id="LOCAL-00053" summary="Inverter numero.py">
       <option name="closed" value="true" />
@@ -687,7 +669,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712196585571</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="OPERADORES.sql">
+      <option name="closed" value="true" />
+      <created>1712197008985</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1712197008985</updated>
+    </task>
+    <task id="LOCAL-00101" summary="PARES.sql">
+      <option name="closed" value="true" />
+      <created>1712197193141</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1712197193142</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -705,8 +703,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Cardapio Festa V5.py" />
-    <MESSAGE value="Slicing em textos.py" />
     <MESSAGE value="Dicionario.py" />
     <MESSAGE value="Statistics" />
     <MESSAGE value="Aula 3 e 4" />
@@ -730,7 +726,9 @@
     <MESSAGE value="CALCULAR FERIAS.sql" />
     <MESSAGE value="VERIFICADOR DE IDADE.sql" />
     <MESSAGE value="FAIXAS" />
-    <option name="LAST_COMMIT_MESSAGE" value="FAIXAS" />
+    <MESSAGE value="OPERADORES.sql" />
+    <MESSAGE value="PARES.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="PARES.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
