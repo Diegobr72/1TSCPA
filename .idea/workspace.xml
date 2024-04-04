@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Trabalhando com variaveis declarativas">
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="FAIXAS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,11 +126,11 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\2023\9 Setembro\20" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03\FAIXAS" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\3 Março\27" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Statistics for Data Science and Machine Learning\2º semestre" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Statistics for Data Science and Machine Learning\1º semestre" />
-      <recent name="C:\Users\diego\PycharmProjects\1TSCPA" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Conexão com try">
@@ -293,30 +293,7 @@
       <workItem from="1712146118508" duration="167000" />
       <workItem from="1712148141770" duration="88000" />
       <workItem from="1712148298534" duration="712000" />
-    </task>
-    <task id="LOCAL-00048" summary="Contador e pares e impas">
-      <option name="closed" value="true" />
-      <created>1710721401675</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1710721401675</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Contador e pares e impas">
-      <option name="closed" value="true" />
-      <created>1710721484278</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1710721484278</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Contador e pares e impas com ia">
-      <option name="closed" value="true" />
-      <created>1710721526909</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1710721526910</updated>
+      <workItem from="1712196352900" duration="607000" />
     </task>
     <task id="LOCAL-00051" summary="numeros pares.py">
       <option name="closed" value="true" />
@@ -686,7 +663,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712148394374</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="CALCULAR FERIAS.sql">
+      <option name="closed" value="true" />
+      <created>1712196512328</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1712196512329</updated>
+    </task>
+    <task id="LOCAL-00098" summary="VERIFICADOR DE IDADE.sql">
+      <option name="closed" value="true" />
+      <created>1712196546977</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1712196546978</updated>
+    </task>
+    <task id="LOCAL-00099" summary="FAIXAS">
+      <option name="closed" value="true" />
+      <created>1712196585570</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1712196585571</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -704,9 +705,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Cardapio Festa.py" />
-    <MESSAGE value="Cardapio Festa V3.py" />
-    <MESSAGE value="Cardapio Festa V4.py" />
     <MESSAGE value="Cardapio Festa V5.py" />
     <MESSAGE value="Slicing em textos.py" />
     <MESSAGE value="Dicionario.py" />
@@ -729,7 +727,10 @@
     <MESSAGE value="Conexão com banco de dados com o python" />
     <MESSAGE value="Meu primeiro PL/SQL" />
     <MESSAGE value="Trabalhando com variaveis declarativas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com variaveis declarativas" />
+    <MESSAGE value="CALCULAR FERIAS.sql" />
+    <MESSAGE value="VERIFICADOR DE IDADE.sql" />
+    <MESSAGE value="FAIXAS" />
+    <option name="LAST_COMMIT_MESSAGE" value="FAIXAS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
