@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="EXERCIOS PARES E PAISES">
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="JOGO PIM">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -293,23 +293,7 @@
       <workItem from="1712146118508" duration="167000" />
       <workItem from="1712148141770" duration="88000" />
       <workItem from="1712148298534" duration="712000" />
-      <workItem from="1712196352900" duration="2379000" />
-    </task>
-    <task id="LOCAL-00054" summary="checkpoint">
-      <option name="closed" value="true" />
-      <created>1710722464175</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1710722464175</updated>
-    </task>
-    <task id="LOCAL-00055" summary="invert">
-      <option name="closed" value="true" />
-      <created>1711075520222</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1711075520222</updated>
+      <workItem from="1712196352900" duration="3465000" />
     </task>
     <task id="LOCAL-00056" summary="inverter corrigido">
       <option name="closed" value="true" />
@@ -687,7 +671,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712197838324</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="LOOPS.sql">
+      <option name="closed" value="true" />
+      <created>1712199011514</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1712199011514</updated>
+    </task>
+    <task id="LOCAL-00104" summary="JOGO PIM">
+      <option name="closed" value="true" />
+      <created>1712199041237</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1712199041238</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -705,8 +705,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Statistics" />
-    <MESSAGE value="Aula 3 e 4" />
     <MESSAGE value="Aula 6 , 7 e 8" />
     <MESSAGE value="Aula 3" />
     <MESSAGE value="Aula 8" />
@@ -730,7 +728,9 @@
     <MESSAGE value="OPERADORES.sql" />
     <MESSAGE value="PARES.sql" />
     <MESSAGE value="EXERCIOS PARES E PAISES" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXERCIOS PARES E PAISES" />
+    <MESSAGE value="LOOPS.sql" />
+    <MESSAGE value="JOGO PIM" />
+    <option name="LAST_COMMIT_MESSAGE" value="JOGO PIM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
