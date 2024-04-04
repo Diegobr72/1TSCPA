@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="PARES.sql" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="EXERCIOS PARES E PAISES">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,11 +126,11 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\2023\9 Setembro\20" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03\EXERCIOS" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03\FAIXAS" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\3 Março\27" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Statistics for Data Science and Machine Learning\2º semestre" />
-      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Statistics for Data Science and Machine Learning\1º semestre" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Conexão com try">
@@ -291,15 +293,7 @@
       <workItem from="1712146118508" duration="167000" />
       <workItem from="1712148141770" duration="88000" />
       <workItem from="1712148298534" duration="712000" />
-      <workItem from="1712196352900" duration="1216000" />
-    </task>
-    <task id="LOCAL-00053" summary="Inverter numero.py">
-      <option name="closed" value="true" />
-      <created>1710721770960</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1710721770961</updated>
+      <workItem from="1712196352900" duration="2379000" />
     </task>
     <task id="LOCAL-00054" summary="checkpoint">
       <option name="closed" value="true" />
@@ -685,7 +679,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712197193142</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="EXERCIOS PARES E PAISES">
+      <option name="closed" value="true" />
+      <created>1712197838324</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1712197838324</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -703,7 +705,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dicionario.py" />
     <MESSAGE value="Statistics" />
     <MESSAGE value="Aula 3 e 4" />
     <MESSAGE value="Aula 6 , 7 e 8" />
@@ -728,7 +729,8 @@
     <MESSAGE value="FAIXAS" />
     <MESSAGE value="OPERADORES.sql" />
     <MESSAGE value="PARES.sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="PARES.sql" />
+    <MESSAGE value="EXERCIOS PARES E PAISES" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXERCIOS PARES E PAISES" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
