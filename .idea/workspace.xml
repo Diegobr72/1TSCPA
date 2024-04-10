@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="PRESTACAO DO CARRO V2.sql" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="PRESTACAO DO CARRO V2.sql">
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,6 +116,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -294,15 +302,7 @@
       <workItem from="1712196352900" duration="3623000" />
       <workItem from="1712234385478" duration="1077000" />
       <workItem from="1712664420089" duration="115000" />
-      <workItem from="1712753783423" duration="934000" />
-    </task>
-    <task id="LOCAL-00061" summary="coleção">
-      <option name="closed" value="true" />
-      <created>1711076833025</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1711076833025</updated>
+      <workItem from="1712753783423" duration="3476000" />
     </task>
     <task id="LOCAL-00062" summary="COnvidados">
       <option name="closed" value="true" />
@@ -688,7 +688,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712754097572</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="PRESTACAO DO CARRO V2.sql">
+      <option name="closed" value="true" />
+      <created>1712755215683</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1712755215683</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

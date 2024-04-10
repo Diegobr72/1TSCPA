@@ -2,5 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/Conexão com try.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Database Application - Patricia/2024/4 Abril/10/Tabuada com EXIT WHEN.sql" dialect="OracleSqlPlus" />
   </component>
 </project>
