@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Tabuada com exit when">
-      <change afterPath="$PROJECT_DIR$/Database Application - Patricia/2024/4 Abril/10/PRESTACAO DO CARRO V2.sql" afterDir="false" />
-    </list>
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="PRESTACAO DO CARRO V2.sql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,18 +117,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\10" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\2 Fevereiro\21\Cardapio da Festa" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\2 Fevereiro\21" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\2 Fevereiro\07\Exercios lista de convidados" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\04\Tabuada" />
-      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\2023\9 Setembro\20" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\10" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03\EXERCIOS" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03\FAIXAS" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\3 Março\27" />
-      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Statistics for Data Science and Machine Learning\2º semestre" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Conexão com try">
@@ -296,15 +294,7 @@
       <workItem from="1712196352900" duration="3623000" />
       <workItem from="1712234385478" duration="1077000" />
       <workItem from="1712664420089" duration="115000" />
-      <workItem from="1712753783423" duration="295000" />
-    </task>
-    <task id="LOCAL-00060" summary="Slicing">
-      <option name="closed" value="true" />
-      <created>1711076694946</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1711076694947</updated>
+      <workItem from="1712753783423" duration="934000" />
     </task>
     <task id="LOCAL-00061" summary="coleção">
       <option name="closed" value="true" />
@@ -690,7 +680,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712753940795</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="PRESTACAO DO CARRO V2.sql">
+      <option name="closed" value="true" />
+      <created>1712754097572</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1712754097572</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -708,7 +706,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="aula 9" />
     <MESSAGE value="aula 9 com as bibliotecas" />
     <MESSAGE value="Desvio padrão e desvio medio absoluto" />
     <MESSAGE value="Desvio medio" />
@@ -733,7 +730,8 @@
     <MESSAGE value="Tabuada com for" />
     <MESSAGE value="Tabuada com while" />
     <MESSAGE value="Tabuada com exit when" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tabuada com exit when" />
+    <MESSAGE value="PRESTACAO DO CARRO V2.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="PRESTACAO DO CARRO V2.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
