@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="JOGO PIM">
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="PRESTACAO DO CARRO.sql">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -293,15 +293,9 @@
       <workItem from="1712146118508" duration="167000" />
       <workItem from="1712148141770" duration="88000" />
       <workItem from="1712148298534" duration="712000" />
-      <workItem from="1712196352900" duration="3465000" />
-    </task>
-    <task id="LOCAL-00056" summary="inverter corrigido">
-      <option name="closed" value="true" />
-      <created>1711075861820</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1711075861820</updated>
+      <workItem from="1712196352900" duration="3623000" />
+      <workItem from="1712234385478" duration="1077000" />
+      <workItem from="1712664420089" duration="115000" />
     </task>
     <task id="LOCAL-00057" summary="inverter corrigido">
       <option name="closed" value="true" />
@@ -687,7 +681,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712199041238</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="PRESTACAO DO CARRO.sql">
+      <option name="closed" value="true" />
+      <created>1712199937959</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1712199937959</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -705,7 +707,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aula 6 , 7 e 8" />
     <MESSAGE value="Aula 3" />
     <MESSAGE value="Aula 8" />
     <MESSAGE value="Material complementar" />
@@ -730,7 +731,8 @@
     <MESSAGE value="EXERCIOS PARES E PAISES" />
     <MESSAGE value="LOOPS.sql" />
     <MESSAGE value="JOGO PIM" />
-    <option name="LAST_COMMIT_MESSAGE" value="JOGO PIM" />
+    <MESSAGE value="PRESTACAO DO CARRO.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="PRESTACAO DO CARRO.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
