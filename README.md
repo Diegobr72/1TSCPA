@@ -1,3 +1,3 @@
-## 1TSCPA  
+## Bem-vindo ao meu primeiro repositório, 1TSCPA! 🚀
 
-Seja bem vindo ao meu primeiro repositorio!
+Aqui, você encontrará todos os códigos que pratiquei em aula, cada um representando um passo em direção ao meu crescimento como Data Science. Sinta-se à vontade para explorar.
