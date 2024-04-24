@@ -3,5 +3,6 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Database Application - Patricia/2024/3 Março/27/Conexão com try.py" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/Database Application - Patricia/2024/4 Abril/10/Tabuada com EXIT WHEN.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/Database Application - Patricia/2024/4 Abril/24/CORREÇÃO DO 3 CHECKPOINTS.sql" dialect="Oracle" />
   </component>
 </project>

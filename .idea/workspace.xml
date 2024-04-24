@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Curva normal">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_11_Distribuições_de_Probabilidades_Contínuas_ipynb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_11_Distribuições_de_Probabilidades_Contínuas_ipynb.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="CORREÇÃO DO 3 CHECKPOINTS.sql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,11 +127,11 @@
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\2 Fevereiro\07\Exercios lista de convidados" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\24" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\10" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03\EXERCIOS" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\03\FAIXAS" />
-      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\3 Março\27" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Conexão com o banco">
@@ -285,14 +282,7 @@
       <workItem from="1713191239266" duration="427000" />
       <workItem from="1713585695699" duration="534000" />
       <workItem from="1713792731997" duration="3450000" />
-    </task>
-    <task id="LOCAL-00064" summary="Convidados V2">
-      <option name="closed" value="true" />
-      <created>1711077198165</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1711077198165</updated>
+      <workItem from="1713965228054" duration="209000" />
     </task>
     <task id="LOCAL-00065" summary="Convidados V3">
       <option name="closed" value="true" />
@@ -678,7 +668,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713793289102</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="CORREÇÃO DO 3 CHECKPOINTS.sql">
+      <option name="closed" value="true" />
+      <created>1713965325338</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1713965325339</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -696,7 +694,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Desvio padrão e desvio medio absoluto" />
     <MESSAGE value="Desvio medio" />
     <MESSAGE value="Panda aplicado para meu notebook" />
     <MESSAGE value="Revisão do pandas" />
@@ -721,7 +718,8 @@
     <MESSAGE value="Tabuada com exit when" />
     <MESSAGE value="PRESTACAO DO CARRO V2.sql" />
     <MESSAGE value="Curva normal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Curva normal" />
+    <MESSAGE value="CORREÇÃO DO 3 CHECKPOINTS.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="CORREÇÃO DO 3 CHECKPOINTS.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
