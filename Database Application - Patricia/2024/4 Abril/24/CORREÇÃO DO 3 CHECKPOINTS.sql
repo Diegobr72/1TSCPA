@@ -72,7 +72,8 @@ END;
 
 
 /*
---2) Imagine que você está modelando o crescimento populacional de coelhos em uma reserva natural. 
+
+--2) Imagine que você está modelando o crescimento populacional de coelhos em uma reserva natural.
 --Você sabe que, em condições ideais, a população de coelhos cresce 50% a cada ano.
 --Escreva um bloco anonimo que determine em quantos anos a população de coelhos 
 --atingirá ou ultrapassará 1000 indivíduos, iniciando com uma população inicial de 100 coelhos. 

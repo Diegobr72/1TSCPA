@@ -1,23 +1,28 @@
---2) Imagine que você está modelando o crescimento populacional de coelhos em uma reserva natural.
---Você sabe que, em condições ideais, a população de coelhos cresce 50% a cada ano.
---Escreva um bloco anonimo que determine em quantos anos a população de coelhos 
---atingirá ou ultrapassará 1000 indivíduos, iniciando com uma população inicial de 100 coelhos. 
---Use um loop para iterar sobre os anos até que a população alcance ou exceda o limite de 1000.
+--3) Escreva um bloco anonimo para calcular a eficiência de um sistema de energia,
+--onde a eficiência é definida como a razão entre a energia útil gerada e a energia total consumida.
+--Trate exceções. Lance uma exceção personalizada quando a energia consumida for negativa.
 
 SET SERVEROUTPUT ON
+ACCEPT v_energia_gerada PROMPT 'Entre com a energia gerada:';
+ACCEPT v_energia_consumida PROMPT 'Entre com a energia consumida:';
 DECLARE
-    v_pop_ini NUMBER := 100; -- populacao inicial
-    v_tx_cresc NUMBER := 0.5; --tx de crescimento
-    v_limite_pop NUMBER := 1000;
-    v_anos NUMBER := 0;
-    v_pop_ano_a_ano NUMBER := v_pop_ini;
-
+    v_energia_gerada NUMBER; -- := &v_energia_gerada;
+    v_energia_consumida NUMBER; -- := &v_energia_consumida;
+    v_eficiencia NUMBER;
 BEGIN
-    WHILE v_pop_ano_a_ano < v_limite_pop LOOP
-        v_pop_ano_a_ano := v_pop_ano_a_ano + (v_pop_ano_a_ano * v_tx_cresc);
-        v_anos := v_anos + 1;
-    END LOOP;
+    v_energia_gerada := &v_energia_gerada;
+    v_energia_consumida := &v_energia_consumida;
 
-    DBMS_OUTPUT.PUT_LINE('A populacao de coelhos ultrapassa ' || v_limite_pop || ' em ' || v_anos || ' anos : '||TRUNC(v_pop_ano_a_ano));
-
+    IF v_energia_gerada < 0 OR v_energia_consumida < 0 THEN
+        RAISE_APPLICATION_ERROR(-20001, 'Valores negativos nao sao aceitos');
+    END IF;
+    v_eficiencia := v_energia_gerada/v_energia_consumida;
+    DBMS_OUTPUT.PUT_LINE('A eficiencia do sistema de energia e: '||v_eficiencia);
+EXCEPTION
+    WHEN ZERO_DIVIDE THEN
+        DBMS_OUTPUT.PUT_LINE('Erro de divisao por zero!');
+    WHEN VALUE_ERROR THEN
+        DBMS_OUTPUT.PUT_LINE('Entre com valores numericos');
+    WHEN OTHERS THEN
+        DBMS_OUTPUT.PUT_LINE('Ocorreu um erro: '||sqlerrm);
 END;
