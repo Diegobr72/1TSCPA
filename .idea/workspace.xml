@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="PRESTACAO DO CARRO V2.sql">
-      <change afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula.ipynb" afterDir="false" />
+    <list default="true" id="611a45b1-ab8c-493e-8af7-b65bec405188" name="Changes" comment="Curva normal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_11_Distribuições_de_Probabilidades_Contínuas_ipynb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Statistics for Data Science and Machine Learning/2º semestre/Aula_11_Distribuições_de_Probabilidades_Contínuas_ipynb.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +106,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/PycharmProjects/1TSCPA/Database Application - Patricia/2024/4 Abril/10&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/PycharmProjects/1TSCPA/Statistics for Data Science and Machine Learning/2º semestre&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -123,11 +123,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Statistics for Data Science and Machine Learning\2º semestre" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\10" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\2 Fevereiro\21\Cardapio da Festa" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\2 Fevereiro\21" />
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\2 Fevereiro\07\Exercios lista de convidados" />
-      <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2023\10 Outubro\04\Tabuada" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\diego\PycharmProjects\1TSCPA\Database Application - Patricia\2024\4 Abril\10" />
@@ -284,14 +284,7 @@
       <workItem from="1713188566062" duration="2073000" />
       <workItem from="1713191239266" duration="427000" />
       <workItem from="1713585695699" duration="534000" />
-    </task>
-    <task id="LOCAL-00063" summary="Convidados V1">
-      <option name="closed" value="true" />
-      <created>1711077110769</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1711077110769</updated>
+      <workItem from="1713792731997" duration="3450000" />
     </task>
     <task id="LOCAL-00064" summary="Convidados V2">
       <option name="closed" value="true" />
@@ -677,7 +670,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712770716410</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Curva normal">
+      <option name="closed" value="true" />
+      <created>1713793289102</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1713793289102</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -695,7 +696,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="aula 9 com as bibliotecas" />
     <MESSAGE value="Desvio padrão e desvio medio absoluto" />
     <MESSAGE value="Desvio medio" />
     <MESSAGE value="Panda aplicado para meu notebook" />
@@ -720,7 +720,8 @@
     <MESSAGE value="Tabuada com while" />
     <MESSAGE value="Tabuada com exit when" />
     <MESSAGE value="PRESTACAO DO CARRO V2.sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="PRESTACAO DO CARRO V2.sql" />
+    <MESSAGE value="Curva normal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curva normal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
